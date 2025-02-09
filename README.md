@@ -1,5 +1,3 @@
-# Snapchat
-موقع
 <!DOCTYPE html>
 <html lang="ar">
 <head>
